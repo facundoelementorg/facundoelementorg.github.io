@@ -1,0 +1,1 @@
+!function(){jQuery(function(n){return n(".j-nav__box").click(function(){return n(".j-section-nav").toggleClass("reveal")}),n(".j-section-nav-close").click(function(){return n(".j-section-nav").toggleClass("reveal")})})}.call(this);
