@@ -1,1 +1,1 @@
-!function(){$(function(){return $(window).load(function(){return $("html").addClass("isReady"),$(".contain-to-grid").one("webkitTransitionEnd otransitionend transitionend").addClass("")}),$(document).foundation()})}.call(this);
+(function(){$(function(){return $(window).load(function(){return $("html").addClass("isReady"),$(".contain-to-grid").one("webkitTransitionEnd otransitionend transitionend").addClass("")}),$(document).foundation()})}).call(this);

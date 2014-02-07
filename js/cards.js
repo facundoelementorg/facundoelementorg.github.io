@@ -1,1 +1,1 @@
-!function(){jQuery(function(){})}.call(this);
+(function(){jQuery(function(){})}).call(this);
